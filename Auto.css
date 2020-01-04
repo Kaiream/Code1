@@ -1,0 +1,29 @@
+#start {
+  margin: 25px 25px 25px 25px;
+  border-color: darkblue;
+  border-width: 8px;
+  border-style: dotted;
+  font-style: oblique;
+  font-size: 60px;
+  font-family: monospace;
+
+}
+
+#nav {
+  font-family: monospace;
+}
+
+#maintxt {
+  font-size: 28px;
+  font-family: sans-serif;
+}
+
+#ptext {
+    font-size: 22px;
+  font-family: monospace;
+}
+
+#future {
+  font-family: fantasy;
+  font-size: 32px;
+}
